@@ -1,0 +1,35 @@
+cv:
+  name: Joonyoung Lee
+  label: Researcher
+  email: ljy32051@gmail.com
+  location: Daegu, South Korea
+  image: ""
+  summary: Research interests include efficient large language models, LLM pruning, knowledge distillation, model compression, text degeneration, and efficient inference.
+
+  social_networks:
+    - network: GitHub
+      username: leejunyoung8631
+
+  sections:
+    Education:
+      - institution: DGIST
+        location: Daegu, South Korea
+        area: Efficient Large Language Models
+        studyType: ""
+        start_date: ""
+        end_date: ""
+        highlights:
+          - LLM pruning
+          - Knowledge distillation
+          - Model compression
+          - Text degeneration
+          - Efficient inference
+
+    Research Interests:
+      - name: Efficient Large Language Models
+        highlights:
+          - LLM pruning
+          - Knowledge distillation
+          - Model compression
+          - Text degeneration
+          - Efficient inference
