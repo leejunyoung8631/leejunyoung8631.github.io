@@ -2,9 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: DGIST
+subtitle: POSTECH
 
-profile: false
+profile:
+  align: right
+  image: profile.jpg
+  image_circular: false
+  more_info: >
+    <p>POSTECH</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am interested in efficient large language models, with a focus on making modern language models smaller, faster, and more reliable.
+I am affiliated with POSTECH, and my research interests lie in efficient AI.
 
-My research interests include LLM pruning, knowledge distillation, model compression, text degeneration, and efficient inference.
+In particular, I am interested in large language models (LLMs) and diffusion models, with a focus on making modern AI systems more efficient and practical.
 
-I am affiliated with DGIST. You can reach me at [ljy32051@gmail.com](mailto:ljy32051@gmail.com) or find my code on [GitHub](https://github.com/leejunyoung8631).
+You can reach me at [ljy32051@gmail.com](mailto:ljy32051@gmail.com) or find my code on [GitHub](https://github.com/leejunyoung8631).

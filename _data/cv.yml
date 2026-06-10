@@ -1,10 +1,10 @@
 cv:
-  name: Joonyoung Lee
+  name: Junyoung Lee
   label: Researcher
   email: ljy32051@gmail.com
-  location: Daegu, South Korea
+  location: Pohang, South Korea
   image: ""
-  summary: Research interests include efficient large language models, LLM pruning, knowledge distillation, model compression, text degeneration, and efficient inference.
+  summary: Research interests include efficient AI, large language models, and diffusion models.
 
   social_networks:
     - network: GitHub
@@ -12,24 +12,19 @@ cv:
 
   sections:
     Education:
-      - institution: DGIST
-        location: Daegu, South Korea
-        area: Efficient Large Language Models
+      - institution: POSTECH
+        location: Pohang, South Korea
+        area: Efficient AI
         studyType: ""
         start_date: ""
         end_date: ""
         highlights:
-          - LLM pruning
-          - Knowledge distillation
-          - Model compression
-          - Text degeneration
-          - Efficient inference
+          - Efficient AI
+          - Large Language Models
+          - Diffusion Models
 
     Research Interests:
-      - name: Efficient Large Language Models
+      - name: Efficient AI
         highlights:
-          - LLM pruning
-          - Knowledge distillation
-          - Model compression
-          - Text degeneration
-          - Efficient inference
+          - Large Language Models
+          - Diffusion Models

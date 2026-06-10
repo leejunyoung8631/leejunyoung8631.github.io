@@ -1,14 +1,12 @@
-# Joonyoung Lee
+# Junyoung Lee
 
-Academic homepage for Joonyoung Lee, based on al-folio.
+Academic homepage for Junyoung Lee, based on al-folio.
 
-Research area: efficient large language models.
+Affiliation: POSTECH
 
-Interests:
+Research interests:
 
-- LLM pruning
-- Knowledge distillation
-- Model compression
-- Text degeneration
-- Efficient inference
+- Efficient AI
+- Large language models
+- Diffusion models
 
