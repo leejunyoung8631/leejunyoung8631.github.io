@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: POSTECH
 
@@ -29,4 +29,4 @@ I am affiliated with POSTECH, and my research interests lie in efficient AI.
 
 In particular, I am interested in large language models (LLMs) and diffusion models, with a focus on making modern AI systems more efficient and practical.
 
-You can reach me at [ljy32051@gmail.com](mailto:ljy32051@gmail.com) or find my code on [GitHub](https://github.com/leejunyoung8631).
+You can reach me at [lolcy3205@postech.ac.kr](mailto:lolcy3205@postech.ac.kr) or [ljy32051@gmail.com](mailto:ljy32051@gmail.com), and find my code on [GitHub](https://github.com/leejunyoung8631).

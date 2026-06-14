@@ -1,7 +1,7 @@
 cv:
   name: Junyoung Lee
   label: Researcher
-  email: ljy32051@gmail.com
+  email: lolcy3205@postech.ac.kr
   location: Pohang, South Korea
   image: ""
   summary: Research interests include efficient AI, large language models, and diffusion models.
@@ -12,16 +12,31 @@ cv:
 
   sections:
     Education:
-      - institution: POSTECH
-        location: Pohang, South Korea
-        area: Efficient AI
-        studyType: ""
-        start_date: ""
-        end_date: ""
+      - institution: DGIST
+        location: Daegu, South Korea
+        area: Division of Basic Studies
+        studyType: Bachelor of Convergence Engineering
+        start_date: "2018"
+        end_date: "2024"
+
+      - institution: DGIST
+        location: Daegu, South Korea
+        area: Department of Electrical Engineering and Computer Science
+        studyType: Graduate Studies
+        start_date: "2024"
+        end_date: "2026"
         highlights:
-          - Efficient AI
-          - Large Language Models
-          - Diffusion Models
+          - "Advisor: Yeseong Kim"
+
+    Research Experience:
+      - company: POSTECH
+        position: Researcher
+        location: Pohang, South Korea
+        start_date: "2026"
+        end_date: present
+        highlights:
+          - "Advisor: Yeseong Kim"
+          - Research on efficient AI, large language models, and diffusion models
 
     Research Interests:
       - name: Efficient AI

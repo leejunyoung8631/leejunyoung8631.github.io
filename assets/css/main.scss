@@ -1,0 +1,20 @@
+---
+---
+
+.publications .author em {
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.publications .abbr abbr {
+  color: #ffffff;
+  background-color: #0f766e;
+  border-color: #0f766e;
+}
+
+html[data-theme="dark"] .publications .abbr abbr {
+  color: #ecfeff;
+  background-color: #115e59;
+  border-color: #2dd4bf;
+}
