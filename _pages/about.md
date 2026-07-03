@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false
   more_info: >
-    <p>POSTECH</p>
+    <p>Research Associate<br>POSTECH CELL</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,9 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am affiliated with POSTECH, where I work on efficient and practical AI systems. My research focuses on making large-scale models faster, smaller, and more deployable without sacrificing their reliability or generation quality.
+I am a Research Associate at POSTECH CELL, where I work on efficient and practical AI systems. My research focuses on making large-scale models faster, smaller, and more deployable without sacrificing their reliability or generation quality.
 
 In particular, I am interested in large language models, generative models, and system-level optimization for modern AI workloads. I like problems where model behavior, learning algorithms, and real deployment constraints meet.
+
+Previously, I received my B.S. from DGIST and my M.S. from the Department of Electrical Engineering and Computer Science at DGIST, advised by Prof. Yeseong Kim.
 
 You can reach me at [lolcy3205@postech.ac.kr](mailto:lolcy3205@postech.ac.kr) or [ljy32051@gmail.com](mailto:ljy32051@gmail.com), and find my code on [GitHub](https://github.com/leejunyoung8631).
 
@@ -40,7 +42,7 @@ You can reach me at [lolcy3205@postech.ac.kr](mailto:lolcy3205@postech.ac.kr) or
 - Generative Models
 - System Optimization
 
-## Selected First-Author Publications
+## Selected Publications
 
 - [**FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance for Pruned Large Language Models**](https://openreview.net/forum?id=3SgRoBn3XM)  
   2026 - ICML 2026, Spotlight
@@ -53,6 +55,8 @@ You can reach me at [lolcy3205@postech.ac.kr](mailto:lolcy3205@postech.ac.kr) or
 
 ## News
 
-- **2026**: One first-author paper accepted to ICML 2026 as a Spotlight.
-- **2025**: One first-author paper appeared at ACM SIGMETRICS 2025.
-- **2025**: One first-author late-breaking result appeared at DATE 2025.
+- **2026.02**: Joined POSTECH CELL as a Research Associate.
+- **2026.02**: Received my M.S. from DGIST EECS.
+- **2026.01**: One paper accepted to ICML 2026 as a Spotlight.
+- **2025.06**: One paper appeared at ACM SIGMETRICS 2025.
+- **2025.03**: One late-breaking result appeared at DATE 2025.
