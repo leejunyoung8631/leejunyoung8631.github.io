@@ -31,6 +31,19 @@ html[data-theme="dark"] .publications .abbr abbr {
   margin-top: 0;
 }
 
+.about-intro-copy p:first-child::first-letter {
+  color: #0f766e;
+  font-weight: 700;
+}
+
+.about-intro-copy a {
+  color: #0f766e;
+}
+
+.about-intro-copy a:hover {
+  color: #115e59;
+}
+
 .about-profile {
   justify-self: end;
   width: 100%;
@@ -45,6 +58,40 @@ html[data-theme="dark"] .publications .abbr abbr {
 .about-profile .more-info {
   margin-top: 0.75rem;
   text-align: center;
+  color: #475569;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.about-main-content h2 {
+  border-left: 4px solid #0f766e;
+  padding-left: 0.75rem;
+}
+
+.about-main-content h2 + ul {
+  padding-left: 1.25rem;
+}
+
+.about-main-content li::marker {
+  color: #0f766e;
+}
+
+html[data-theme="dark"] .about-intro-copy p:first-child::first-letter,
+html[data-theme="dark"] .about-intro-copy a,
+html[data-theme="dark"] .about-main-content li::marker {
+  color: #2dd4bf;
+}
+
+html[data-theme="dark"] .about-intro-copy a:hover {
+  color: #5eead4;
+}
+
+html[data-theme="dark"] .about-main-content h2 {
+  border-left-color: #2dd4bf;
+}
+
+html[data-theme="dark"] .about-profile .more-info {
+  color: #cbd5e1;
 }
 
 .about-main-content {
