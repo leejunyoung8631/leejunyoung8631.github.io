@@ -18,3 +18,47 @@ html[data-theme="dark"] .publications .abbr abbr {
   background-color: #115e59;
   border-color: #2dd4bf;
 }
+
+.about-intro-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 270px);
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.about-intro-copy p:first-child {
+  margin-top: 0;
+}
+
+.about-profile {
+  justify-self: end;
+  width: 100%;
+  max-width: 270px;
+  margin: 0;
+}
+
+.about-profile figure {
+  margin: 0;
+}
+
+.about-profile .more-info {
+  margin-top: 0.75rem;
+  text-align: center;
+}
+
+.about-main-content {
+  clear: both;
+}
+
+@media (max-width: 575.98px) {
+  .about-intro-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .about-profile {
+    justify-self: start;
+    max-width: 220px;
+  }
+}
