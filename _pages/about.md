@@ -31,7 +31,7 @@ In particular, I am interested in large language models, generative models, and 
 
 You can reach me at [lolcy3205@postech.ac.kr](mailto:lolcy3205@postech.ac.kr) or [ljy32051@gmail.com](mailto:ljy32051@gmail.com), and find my code on [GitHub](https://github.com/leejunyoung8631).
 
----
+<!-- intro-end -->
 
 ## Research Areas
 
