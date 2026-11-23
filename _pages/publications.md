@@ -2,13 +2,15 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: selected publications and manuscripts.
 nav: true
 nav_order: 2
 ---
 
 <div class="publications">
 
-{% bibliography %}
+<h2 id="in-submission">In Submission</h2>
+{% bibliography --file submissions.bib --group_by none %}
+
+{% bibliography --file papers.bib %}
 
 </div>

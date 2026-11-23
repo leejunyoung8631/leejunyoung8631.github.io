@@ -44,14 +44,21 @@ You can reach me at [lolcy3205@postech.ac.kr](mailto:lolcy3205@postech.ac.kr) or
 
 ## Selected Publications
 
+- [**HVKV: Scalable Long-Context Inference through Hypervector KV Cache Retrieval**](https://doi.org/10.1145/3845814.3850042)  
+  Hyunsei Lee, Sehyeon Park, Jaewoo Gwak, Shinhyoung Jang, **Junyoung Lee**, Yeseong Kim  
+  ASPLOS 2027
+
 - [**FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance for Pruned Large Language Models**](https://openreview.net/forum?id=3SgRoBn3XM)  
-  2026 - ICML 2026, Spotlight
+  **Junyoung Lee**, Sehyeon Park, Shinhyoung Jang, Seonha Ryu, Hojeong Kim, Hyunsei Lee, Il Hong Suh, Yeseong Kim  
+  ICML 2026, Spotlight
 
 - [**Diffusion-Based Generative System Surrogates for Scalable Learning-Driven Optimization in Virtual Playgrounds**](https://dl.acm.org/doi/pdf/10.1145/3727112)  
-  2025 - SIGMETRICS 2025
+  **Junyoung Lee**, Seohyun Kim, Shinhyoung Jang, Jongho Park, Yeseong Kim  
+  SIGMETRICS 2025
 
 - [**Late Breaking Results: Dynamically Scalable Pruning for Transformer-Based Large Language Models**](https://ieeexplore.ieee.org/abstract/document/10992978)  
-  2025 - DATE 2025
+  **Junyoung Lee**, Shinhyoung Jang, Seohyun Kim, Jongho Park, Il Hong Suh, Hoon Sung Chwa, Yeseong Kim  
+  DATE 2025
 
 ## News
 
