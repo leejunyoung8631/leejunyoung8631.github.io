@@ -101,6 +101,14 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Version navigation and layout styles after CSS purging
+        run: |
+          for sheet in main tailwind; do
+            digest=$(sha256sum "_site/assets/css/$sheet.css" | cut -c1-16)
+            cp "_site/assets/css/$sheet.css" "_site/assets/css/$sheet.$digest.css"
+            find _site -name '*.html' -exec sed -i -E \
+              "s#(/assets/css/$sheet)\\.css\\?v=[[:xdigit:]]+#\\1.$digest.css#g" {} +
+          done
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
