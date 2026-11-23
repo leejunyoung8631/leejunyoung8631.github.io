@@ -155,6 +155,11 @@ html[data-theme="dark"] #light-toggle:hover {
   padding-left: 1.25rem;
 }
 
+#selected-publications + ul li > p > strong,
+#selected-publications + ul li > strong {
+  font-weight: 700;
+}
+
 .about-main-content li::marker {
   color: #0f766e;
 }
