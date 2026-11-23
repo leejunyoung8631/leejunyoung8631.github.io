@@ -1,6 +1,16 @@
 ---
 ---
 
+@use "variables" with ($max-content-width: {{ site.max_width }});
+@use "themes";
+@use "layout";
+@use "navbar";
+@use "footer";
+
+.navbar.fixed-top {
+  opacity: 1;
+}
+
 .publications .author em {
   font-style: normal;
   font-weight: 700;

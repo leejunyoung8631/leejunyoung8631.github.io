@@ -82,7 +82,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: false
@@ -282,6 +282,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
+  compress_css: false # Preserve CSS variables in Tailwind's fixed navbar offsets. Sass already compresses main.css.
   compress_javascript: false # set to false since we are using terser as the js minifier
   exclude: ["robots.txt", "assets/js/search/*.js"]
 
